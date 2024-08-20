@@ -1,0 +1,231 @@
+﻿  Collider.cpp
+  Collision_Manager.cpp
+  Component_Manager.cpp
+  Frustum.cpp
+  GameInstance.cpp
+  GameObject.cpp
+  Layer.cpp
+  Level.cpp
+  Level_Manager.cpp
+  Light.cpp
+  Monster.cpp
+  Renderer.cpp
+  Status.cpp
+  VIBuffer.cpp
+  VIBuffer_OrthoWin.cpp
+  VIBuffer_Terrain.cpp
+  VIBuffer_Trail.cpp
+     ../Bin/Engine.lib 라이브러리 및 ../Bin/Engine.exp 개체를 생성하고 있습니다.
+Effects11d.lib(d3dxGlobal.obj) : warning LNK4099: 'Effects11d.pdb' PDB를 'Effects11d.lib(d3dxGlobal.obj)' 또는 'C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Bin\Effects11d.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11d.lib(EffectAPI.obj) : warning LNK4099: 'Effects11d.pdb' PDB를 'Effects11d.lib(EffectAPI.obj)' 또는 'C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Bin\Effects11d.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11d.lib(EffectLoad.obj) : warning LNK4099: 'Effects11d.pdb' PDB를 'Effects11d.lib(EffectLoad.obj)' 또는 'C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Bin\Effects11d.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11d.lib(EffectNonRuntime.obj) : warning LNK4099: 'Effects11d.pdb' PDB를 'Effects11d.lib(EffectNonRuntime.obj)' 또는 'C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Bin\Effects11d.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11d.lib(EffectReflection.obj) : warning LNK4099: 'Effects11d.pdb' PDB를 'Effects11d.lib(EffectReflection.obj)' 또는 'C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Bin\Effects11d.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11d.lib(EffectRuntime.obj) : warning LNK4099: 'Effects11d.pdb' PDB를 'Effects11d.lib(EffectRuntime.obj)' 또는 'C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Bin\Effects11d.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(BasicEffect.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(BasicEffect.obj)' 또는 'C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(CommonStates.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(CommonStates.obj)' 또는 'C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(DDSTextureLoader.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(DDSTextureLoader.obj)' 또는 'C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(BinaryReader.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(BinaryReader.obj)' 또는 'C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(EffectCommon.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(EffectCommon.obj)' 또는 'C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(pch.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(pch.obj)' 또는 'C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(SpriteBatch.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(SpriteBatch.obj)' 또는 'C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(PrimitiveBatch.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(PrimitiveBatch.obj)' 또는 'C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(SpriteFont.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(SpriteFont.obj)' 또는 'C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(VertexTypes.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(VertexTypes.obj)' 또는 'C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTKd.lib(WICTextureLoader.obj) : warning LNK4099: 'DirectXTK.pdb' PDB를 'DirectXTKd.lib(WICTextureLoader.obj)' 또는 'C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Bin\DirectXTK.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  Engine.vcxproj -> C:\Users\kin23\OneDrive\바탕 화면\쥬신수업\프로젝트\KingdomHearts3\Engine\Default\../Bin/Engine.dll
+  Engine.vcxproj -> ../Bin/Engine.pdb (Full PDB)
+  '////'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
+  ..\..\.\Engine\Public\Animation.h
+  ..\..\.\Engine\Public\Base.h
+  ..\..\.\Engine\Public\Camera.h
+  ..\..\.\Engine\Public\Cell.h
+  ..\..\.\Engine\Public\Channel.h
+  ..\..\.\Engine\Public\Collider.h
+  ..\..\.\Engine\Public\Collision_Manager.h
+  ..\..\.\Engine\Public\Component.h
+  ..\..\.\Engine\Public\Component_Manager.h
+  ..\..\.\Engine\Public\d3dx11effect.h
+  ..\..\.\Engine\Public\d3dxGlobal.h
+  ..\..\.\Engine\Public\DebugDraw.h
+  ..\..\.\Engine\Public\Engine_Defines.h
+  ..\..\.\Engine\Public\Engine_Function.h
+  ..\..\.\Engine\Public\Engine_Macro.h
+  ..\..\.\Engine\Public\Engine_Struct.cpp
+  ..\..\.\Engine\Public\Engine_Struct.h
+  ..\..\.\Engine\Public\Engine_Typedef.h
+  ..\..\.\Engine\Public\Font_Manager.h
+  ..\..\.\Engine\Public\Frustum.h
+  ..\..\.\Engine\Public\GameInstance.h
+  ..\..\.\Engine\Public\GameObject.h
+  ..\..\.\Engine\Public\Graphic_Device.h
+  ..\..\.\Engine\Public\HierarchyNode.h
+  ..\..\.\Engine\Public\Input_Device.h
+  ..\..\.\Engine\Public\Item.h
+  ..\..\.\Engine\Public\Layer.h
+  ..\..\.\Engine\Public\Level.h
+  ..\..\.\Engine\Public\Level_Manager.h
+  ..\..\.\Engine\Public\Light.h
+  ..\..\.\Engine\Public\Light_Manager.h
+  ..\..\.\Engine\Public\MeshContainer.h
+  ..\..\.\Engine\Public\Model.h
+  ..\..\.\Engine\Public\Monster.h
+  ..\..\.\Engine\Public\MonsterCooler.h
+  ..\..\.\Engine\Public\Mouse.h
+  ..\..\.\Engine\Public\Navigation.h
+  ..\..\.\Engine\Public\Object_Manager.h
+  ..\..\.\Engine\Public\Picking.h
+  ..\..\.\Engine\Public\PipeLine.h
+  ..\..\.\Engine\Public\Renderer.h
+  ..\..\.\Engine\Public\RenderTarget.h
+  ..\..\.\Engine\Public\Shader.h
+  ..\..\.\Engine\Public\Shader_Blur.h
+  ..\..\.\Engine\Public\SoundMgr.h
+  ..\..\.\Engine\Public\SpriteFont.h
+  ..\..\.\Engine\Public\State.h
+  ..\..\.\Engine\Public\StateMachine.h
+  ..\..\.\Engine\Public\Status.h
+  ..\..\.\Engine\Public\Target_Manager.h
+  ..\..\.\Engine\Public\Texture.h
+  ..\..\.\Engine\Public\Timer.h
+  ..\..\.\Engine\Public\Timer_Manager.h
+  ..\..\.\Engine\Public\Transform.h
+  ..\..\.\Engine\Public\UI_Parents.h
+  ..\..\.\Engine\Public\VIBuffer.h
+  ..\..\.\Engine\Public\VIBuffer_Axis.h
+  ..\..\.\Engine\Public\VIBuffer_Cube.h
+  ..\..\.\Engine\Public\VIBuffer_OrthoWin.h
+  ..\..\.\Engine\Public\VIBuffer_Point_Instance.h
+  ..\..\.\Engine\Public\VIBuffer_Rect.h
+  ..\..\.\Engine\Public\VIBuffer_Terrain.h
+  ..\..\.\Engine\Public\VIBuffer_Trail.h
+  ..\..\.\Engine\Public\VIBuffer_Triangle.h
+  ..\..\.\Engine\Public\assimp\.editorconfig
+  ..\..\.\Engine\Public\assimp\aabb.h
+  ..\..\.\Engine\Public\assimp\ai_assert.h
+  ..\..\.\Engine\Public\assimp\anim.h
+  ..\..\.\Engine\Public\assimp\BaseImporter.h
+  ..\..\.\Engine\Public\assimp\Bitmap.h
+  ..\..\.\Engine\Public\assimp\BlobIOSystem.h
+  ..\..\.\Engine\Public\assimp\ByteSwapper.h
+  ..\..\.\Engine\Public\assimp\camera.h
+  ..\..\.\Engine\Public\assimp\cexport.h
+  ..\..\.\Engine\Public\assimp\cfileio.h
+  ..\..\.\Engine\Public\assimp\cimport.h
+  ..\..\.\Engine\Public\assimp\color4.h
+  ..\..\.\Engine\Public\assimp\color4.inl
+  ..\..\.\Engine\Public\assimp\config.h
+  ..\..\.\Engine\Public\assimp\config.h.in
+  ..\..\.\Engine\Public\assimp\CreateAnimMesh.h
+  ..\..\.\Engine\Public\assimp\DefaultIOStream.h
+  ..\..\.\Engine\Public\assimp\DefaultIOSystem.h
+  ..\..\.\Engine\Public\assimp\DefaultLogger.hpp
+  ..\..\.\Engine\Public\assimp\Defines.h
+  ..\..\.\Engine\Public\assimp\defs.h
+  ..\..\.\Engine\Public\assimp\Exceptional.h
+  ..\..\.\Engine\Public\assimp\Exporter.hpp
+  ..\..\.\Engine\Public\assimp\fast_atof.h
+  ..\..\.\Engine\Public\assimp\GenericProperty.h
+  ..\..\.\Engine\Public\assimp\Hash.h
+  ..\..\.\Engine\Public\assimp\Importer.hpp
+  ..\..\.\Engine\Public\assimp\importerdesc.h
+  ..\..\.\Engine\Public\assimp\IOStream.hpp
+  ..\..\.\Engine\Public\assimp\IOStreamBuffer.h
+  ..\..\.\Engine\Public\assimp\IOSystem.hpp
+  ..\..\.\Engine\Public\assimp\irrXMLWrapper.h
+  ..\..\.\Engine\Public\assimp\light.h
+  ..\..\.\Engine\Public\assimp\LineSplitter.h
+  ..\..\.\Engine\Public\assimp\LogAux.h
+  ..\..\.\Engine\Public\assimp\Logger.hpp
+  ..\..\.\Engine\Public\assimp\LogStream.hpp
+  ..\..\.\Engine\Public\assimp\Macros.h
+  ..\..\.\Engine\Public\assimp\material.h
+  ..\..\.\Engine\Public\assimp\material.inl
+  ..\..\.\Engine\Public\assimp\MathFunctions.h
+  ..\..\.\Engine\Public\assimp\matrix3x3.h
+  ..\..\.\Engine\Public\assimp\matrix3x3.inl
+  ..\..\.\Engine\Public\assimp\matrix4x4.h
+  ..\..\.\Engine\Public\assimp\matrix4x4.inl
+  ..\..\.\Engine\Public\assimp\MemoryIOWrapper.h
+  ..\..\.\Engine\Public\assimp\mesh.h
+  ..\..\.\Engine\Public\assimp\metadata.h
+  ..\..\.\Engine\Public\assimp\NullLogger.hpp
+  ..\..\.\Engine\Public\assimp\ParsingUtils.h
+  ..\..\.\Engine\Public\assimp\pbrmaterial.h
+  ..\..\.\Engine\Public\assimp\postprocess.h
+  ..\..\.\Engine\Public\assimp\Profiler.h
+  ..\..\.\Engine\Public\assimp\ProgressHandler.hpp
+  ..\..\.\Engine\Public\assimp\qnan.h
+  ..\..\.\Engine\Public\assimp\quaternion.h
+  ..\..\.\Engine\Public\assimp\quaternion.inl
+  ..\..\.\Engine\Public\assimp\RemoveComments.h
+  ..\..\.\Engine\Public\assimp\scene.h
+  ..\..\.\Engine\Public\assimp\SceneCombiner.h
+  ..\..\.\Engine\Public\assimp\SGSpatialSort.h
+  ..\..\.\Engine\Public\assimp\SkeletonMeshBuilder.h
+  ..\..\.\Engine\Public\assimp\SmoothingGroups.h
+  ..\..\.\Engine\Public\assimp\SmoothingGroups.inl
+  ..\..\.\Engine\Public\assimp\SpatialSort.h
+  ..\..\.\Engine\Public\assimp\StandardShapes.h
+  ..\..\.\Engine\Public\assimp\StreamReader.h
+  ..\..\.\Engine\Public\assimp\StreamWriter.h
+  ..\..\.\Engine\Public\assimp\StringComparison.h
+  ..\..\.\Engine\Public\assimp\StringUtils.h
+  ..\..\.\Engine\Public\assimp\Subdivision.h
+  ..\..\.\Engine\Public\assimp\texture.h
+  ..\..\.\Engine\Public\assimp\TinyFormatter.h
+  ..\..\.\Engine\Public\assimp\types.h
+  ..\..\.\Engine\Public\assimp\vector2.h
+  ..\..\.\Engine\Public\assimp\vector2.inl
+  ..\..\.\Engine\Public\assimp\vector3.h
+  ..\..\.\Engine\Public\assimp\vector3.inl
+  ..\..\.\Engine\Public\assimp\version.h
+  ..\..\.\Engine\Public\assimp\Vertex.h
+  ..\..\.\Engine\Public\assimp\XMLTools.h
+  ..\..\.\Engine\Public\assimp\ZipArchiveIOSystem.h
+  ..\..\.\Engine\Public\assimp\Compiler\poppack1.h
+  ..\..\.\Engine\Public\assimp\Compiler\pstdint.h
+  ..\..\.\Engine\Public\assimp\Compiler\pushpack1.h
+  ..\..\.\Engine\Public\assimp\port\AndroidJNI\AndroidJNIIOSystem.h
+  ..\..\.\Engine\Public\DirectXTK\Audio.h
+  ..\..\.\Engine\Public\DirectXTK\CommonStates.h
+  ..\..\.\Engine\Public\DirectXTK\DDSTextureLoader.h
+  ..\..\.\Engine\Public\DirectXTK\DirectXHelpers.h
+  ..\..\.\Engine\Public\DirectXTK\Effects.h
+  ..\..\.\Engine\Public\DirectXTK\GamePad.h
+  ..\..\.\Engine\Public\DirectXTK\GeometricPrimitive.h
+  ..\..\.\Engine\Public\DirectXTK\GraphicsMemory.h
+  ..\..\.\Engine\Public\DirectXTK\Keyboard.h
+  ..\..\.\Engine\Public\DirectXTK\Model.h
+  ..\..\.\Engine\Public\DirectXTK\Mouse.h
+  ..\..\.\Engine\Public\DirectXTK\PostProcess.h
+  ..\..\.\Engine\Public\DirectXTK\PrimitiveBatch.h
+  ..\..\.\Engine\Public\DirectXTK\ScreenGrab.h
+  ..\..\.\Engine\Public\DirectXTK\SimpleMath.h
+  ..\..\.\Engine\Public\DirectXTK\SimpleMath.inl
+  ..\..\.\Engine\Public\DirectXTK\SpriteBatch.h
+  ..\..\.\Engine\Public\DirectXTK\SpriteFont.h
+  ..\..\.\Engine\Public\DirectXTK\VertexTypes.h
+  ..\..\.\Engine\Public\DirectXTK\WICTextureLoader.h
+  ..\..\.\Engine\Public\DirectXTK\XboxDDSTextureLoader.h
+  ..\..\.\Engine\Public\fmod\fmod.cs
+  ..\..\.\Engine\Public\fmod\fmod.h
+  ..\..\.\Engine\Public\fmod\fmod.hpp
+  ..\..\.\Engine\Public\fmod\fmod_codec.h
+  ..\..\.\Engine\Public\fmod\fmod_common.h
+  ..\..\.\Engine\Public\fmod\fmod_dsp.cs
+  ..\..\.\Engine\Public\fmod\fmod_dsp.h
+  ..\..\.\Engine\Public\fmod\fmod_dsp_effects.h
+  ..\..\.\Engine\Public\fmod\fmod_errors.cs
+  ..\..\.\Engine\Public\fmod\fmod_errors.h
+  ..\..\.\Engine\Public\fmod\fmod_output.h
+  183개 파일이 복사되었습니다.
+  ..\..\.\Engine\bin\Engine.lib
+  1개 파일이 복사되었습니다.
+  ..\..\.\Engine\bin\Engine.dll
+  1개 파일이 복사되었습니다.
+  ..\..\.\Engine\ShaderFiles\Shader_Deferred.hlsl
+  ..\..\.\Engine\ShaderFiles\Shader_Navigation.hlsl
+  ..\..\.\Engine\ShaderFiles\Shader_SSAO.hlsl
+  3개 파일이 복사되었습니다.
